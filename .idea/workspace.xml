@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abda61d5-86d0-4817-b41e-8ad8b2d599f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cAJFY7ulEeplLAECpyVpvQZhfA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.crazycoder.io.Main" />
+      <module name="borsa-tahmin" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abda61d5-86d0-4817-b41e-8ad8b2d599f0" name="Default Changelist" comment="" />
+      <created>1589965361185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589965361185</updated>
+      <workItem from="1589965364921" duration="7277000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1088" y="241" width="367" height="610" key="#com.intellij.ide.util.MemberChooser" timestamp="1589970031532">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state x="1088" y="241" width="367" height="610" key="#com.intellij.ide.util.MemberChooser/0.28.2560.1052@0.28.2560.1052" timestamp="1589970031532" />
+    <state x="1013" y="303" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589970355859">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state x="1013" y="303" width="524" height="498" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.28.2560.1052@0.28.2560.1052" timestamp="1589970355859" />
+    <state width="2516" height="279" key="GridCell.Tab.0.bottom" timestamp="1589972895417">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state width="2516" height="279" key="GridCell.Tab.0.bottom/0.28.2560.1052@0.28.2560.1052" timestamp="1589972895417" />
+    <state width="2516" height="279" key="GridCell.Tab.0.center" timestamp="1589972895417">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state width="2516" height="279" key="GridCell.Tab.0.center/0.28.2560.1052@0.28.2560.1052" timestamp="1589972895417" />
+    <state width="2516" height="279" key="GridCell.Tab.0.left" timestamp="1589972895416">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state width="2516" height="279" key="GridCell.Tab.0.left/0.28.2560.1052@0.28.2560.1052" timestamp="1589972895416" />
+    <state width="2516" height="279" key="GridCell.Tab.0.right" timestamp="1589972895417">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state width="2516" height="279" key="GridCell.Tab.0.right/0.28.2560.1052@0.28.2560.1052" timestamp="1589972895417" />
+    <state x="943" y="260" key="search.everywhere.popup" timestamp="1589966190026">
+      <screen x="0" y="28" width="2560" height="1052" />
+    </state>
+    <state x="943" y="260" key="search.everywhere.popup/0.28.2560.1052@0.28.2560.1052" timestamp="1589966190026" />
+  </component>
+</project>
